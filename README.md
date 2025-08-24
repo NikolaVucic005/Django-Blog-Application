@@ -53,7 +53,7 @@ Install:
 pip install django
 
 Run migrations and start the server:
-python manage.py migrate
+python manage.py migrate -
 python manage.py runserver
 
 Open the app in your browser:
