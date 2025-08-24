@@ -68,7 +68,6 @@ Contributions are welcome! Feel free to fork the repository, make updates, and s
 
 # Contact
 
-Author: Nikola Vucić
-For questions or feedback, reach out via GitHub Issues or Discussions.
+Created by Nikola Vucic. For feedback or questions, feel free to reach out via GitHub Discussions or Issues.
 
-# Thanks for checking out the Blog Application!
+*Thanks for checking out the Blog Application!*
