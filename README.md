@@ -32,15 +32,15 @@ Main features of the application include:
 # Project Structure
 
 blog/
--assets         
--blog                  
--media
--posts
--static
--templates
--users
--db.sqlite3
--manage.py
+- assets         
+- blog                  
+- media
+- posts
+- static
+- templates
+- users
+- db.sqlite3
+- manage.py
 
 # How to Run the Project
 
