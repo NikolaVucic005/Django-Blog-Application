@@ -1,6 +1,6 @@
 # Blog Application
 
-**Blog Application** is a web app built with Python (Django framework) that allows users to create, edit, and delete blog posts.
+**Blog Application** is a web app built with Django (Python framework) that allows users to create, edit, and delete blog posts.
 The project uses the Django admin panel for content management and an SQLite database for storing data.
 
 # Project Overview
