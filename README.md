@@ -46,7 +46,7 @@ blog/
 
 Clone the repository:
 
-git clone https://github.com/USERNAME/blog.git
+git clone https://github.com/NikolaVucic005/Django-Blog-Application
 cd blog
 
 Install:
